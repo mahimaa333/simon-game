@@ -209,8 +209,8 @@ p {
         margin-top: 50px;
     }
     .buttondiv button{
-        width: 60px;
-        height: 60px;
+        width: 100px;
+        height: 100px;
     }
     .onoff button{
       transform: scale(0.7);
