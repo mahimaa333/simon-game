@@ -93,7 +93,7 @@ async function playGame(){
     if(score == 0){
         sc.innerHTML = String(score);
     }
-    let time = 200;
+    let time = 1200;
     removeCursor();
     level += 1;
     time = time - Math.floor(level/3)*70;
